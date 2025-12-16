@@ -1,0 +1,50 @@
+[
+  {
+    "rute":"Rute 3",
+    "jarak_km":120,
+    "waktu_menit":150,
+    "kepadatan":5,
+    "kondisi_jalan":5,
+    "kondisi_cuaca":2,
+    "jenis_kendaraan":0,
+    "berat_muatan_ton":0.8,
+    "prediksi_bbm_liter":69.026597875,
+    "efisiensi_km_per_liter":1.7384602993,
+    "biaya_bbm_rp":690265.9787497793,
+    "biaya_waktu_rp":75000,
+    "total_biaya_rp":765265.9787497793,
+    "skor_efisiensi":524.5384119712
+  },
+  {
+    "rute":"Rute 1",
+    "jarak_km":150,
+    "waktu_menit":180,
+    "kepadatan":5,
+    "kondisi_jalan":4,
+    "kondisi_cuaca":2,
+    "jenis_kendaraan":0,
+    "berat_muatan_ton":1.2,
+    "prediksi_bbm_liter":92.9556178997,
+    "efisiensi_km_per_liter":1.6136733141,
+    "biaya_bbm_rp":929556.1789966244,
+    "biaya_waktu_rp":90000,
+    "total_biaya_rp":1019556.1789966244,
+    "skor_efisiensi":510.5469325638
+  },
+  {
+    "rute":"Rute 2",
+    "jarak_km":180,
+    "waktu_menit":200,
+    "kepadatan":5,
+    "kondisi_jalan":3,
+    "kondisi_cuaca":1,
+    "jenis_kendaraan":0,
+    "berat_muatan_ton":1.5,
+    "prediksi_bbm_liter":108.938828235,
+    "efisiensi_km_per_liter":1.6523034341,
+    "biaya_bbm_rp":1089388.2823497488,
+    "biaya_waktu_rp":100000,
+    "total_biaya_rp":1189388.2823497488,
+    "skor_efisiensi":506.0921373642
+  }
+]
